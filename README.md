@@ -22,14 +22,15 @@ I am a passionate Engineer focused on transforming complex data into strategic i
 ---
 
 ### 📊 GitHub Statistics & Performance
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CrslSoares&show_icons=true&theme=tokyonight&count_private=true" alt="Celso's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrslSoares&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CrslSoares&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Celso's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrslSoares&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Most Used Languages" />
 </p>
 
 ### 📈 Contribution Graph
-![Celso's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrslSoares&theme=tokyonight)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrslSoares&theme=react&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=bf91f3" alt="Celso's Activity Graph" />
+</p>
 
 ---
 
@@ -40,5 +41,7 @@ I am a passionate Engineer focused on transforming complex data into strategic i
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/celso-renan-soares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:celsosoares08@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
