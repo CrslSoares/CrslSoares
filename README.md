@@ -21,29 +21,6 @@ I am a passionate Engineer focused on transforming complex data into strategic i
 
 ---
 
-### 📊 GitHub Statistics & Performance
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px" alt="GitHub Logo" />
-      <br />
-      <b>Data Scientist</b>
-    </td>
-    <td width="80%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CrslSoares&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Celso's GitHub Stats" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrslSoares&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-### 📈 Activity Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrslSoares&theme=react&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=bf91f3" alt="Celso's Activity Graph" />
-</p>
-
----
-
 ### 📂 Featured Projects
 * **[Energy & Economic Analysis](https://github.com/CrslSoares/energy-economic-analysis):** An ETL pipeline integrating UN and World Bank data to explore global sustainability trends.
 * **[Sports Market Performance Study](https://github.com/CrslSoares/sports-market-performance-analysis):** Statistical hypothesis testing (T-tests) and Pearson correlation analysis of the "Big 4" sports leagues.
