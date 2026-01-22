@@ -27,7 +27,7 @@ I am a passionate Engineer focused on transforming complex data into strategic i
     <td align="center" width="20%">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px" alt="GitHub Logo" />
       <br />
-      <b>Data Engineer</b>
+      <b>Data Scientist</b>
     </td>
     <td width="80%">
       <img src="https://github-readme-stats.vercel.app/api?username=CrslSoares&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Celso's GitHub Stats" />
