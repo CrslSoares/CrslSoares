@@ -1,6 +1,6 @@
 # Hi there, I'm Celso Soares! 👋
 
-### 🚀 Engineering Graduate | Data Science & Machine Learning Specialist
+### 🚀 Engineering Graduate | Data Science
 
 I am a passionate Engineer focused on transforming complex data into strategic insights. My expertise lies in **Data Wrangling, Statistical Analysis, and Machine Learning**, with a strong foundation in data analysis and conducting rigorous hypothesis testing.
 
