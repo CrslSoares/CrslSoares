@@ -4,7 +4,7 @@
 
 I am a passionate Engineer focused on transforming complex data into strategic insights. My expertise lies in **Data Wrangling, Statistical Analysis, and Machine Learning**, with a strong foundation in data analysis and conducting rigorous hypothesis testing.
 
-- 🔭 I’m currently working on: **SQL Projects**
+- 🔭 I’m currently working on: **EY AI & Data Challenge**
 - 🌱 I’m currently learning: **Data Visualization(matplotlib) and SQL**
 - 🎓 Specialization: **Data Science in Python (University of Michigan)**
 
